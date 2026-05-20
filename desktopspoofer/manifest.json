@@ -1,0 +1,7 @@
+{
+  "name": "Desktop Client Spoofer",
+  "description": "Spoofs client identification parameters to display a desktop status icon instead of a mobile icon.",
+  "author": "HaraldErik",
+  "main": "index.js",
+  "version": "1.0.0"
+}
